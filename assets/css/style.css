@@ -1,0 +1,25 @@
+/* *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: black;
+} */
+
+.page    { display: none; padding: 0 0.5em; }
+.page h1 { font-size: 2em; line-height: 1em; margin-top: 1.1em; font-weight: bold; }
+.page p  { font-size: 1.5em; line-height: 1.275em; margin-top: 0.15em; }
+
+
+
+#loading {
+    position: fixed;
+    display: flex;
+    z-index: 1002;
+    top:0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(192, 192, 192, 0.5);
+    background-image: url("../images/loading.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+} 

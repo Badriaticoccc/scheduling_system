@@ -1,0 +1,162 @@
+subject,course_title,room,unit,hr_wk,day_wk
+PCOM 102,Purposive Communication,LECTURE,3,2,1
+EL 102,Gender and Society,LECTURE,3,2,1
+NAT 102,Anatomy and Physiology,LECTURE,4,2,1
+PSYB 102,Psychological Statistics,LECTURE,5,3,1
+PSYM 102,Developmental Psychology,LECTURE,3,2,1
+NSTP 102,National Service Training Program 2,LECTURE,3,2,1
+PE 102,Fundamental Rhytmic Activities,LECTURE,2,1,1
+RIZAL 102,The Life and Works of Rizal,LECTURE,3,2,1
+EDUC 102,Building and Enhancing Literacies Across Curriculum,LECTURE,3,2,1
+MEM 102,Trigonometry,LECTURE,3,2,1
+EEDM 102,Teaching Science in Primary Grades (Biology and Chemistry),LECTURE,3,2,1
+EEDM 102A,Teaching Social Studies in Primary Grades (Phil. History & Government),LECTURE,3,2,1
+SEM 102,Astronomy,LECTURE,3,2,1
+ENGM 102A,Structure of English,LECTURE,3,2,1
+SEM 102A,Anatomy and Physiology with Laboratory,LECTURE,3,2,1
+SEM 102B,Modern Physics,LECTURE,3,2,1
+STS 202,"Science, Technology and Society",LECTURE,3,2,1
+EDUC 202,The Teaching Profession,LECTURE,3,2,1
+EDUC 202A,Foundation and Special Inclusive Education,LECTURE,3,2,1
+ETHICS 202,General Ethics,LECTURE,3,2,1
+RPH 202,Readings in Philippine History,LECTURE,3,2,1
+EEDM 202,Teaching Science in Intermediate Grades Physics and Earth Science,LECTURE,3,2,1
+EEDM 202A,Teaching Social Studies in Intermediate Grades (Culture and Basic Geo),LECTURE,3,2,1
+PE 202,Team Sports,LECTURE,2,1,1
+ENGM 202,Teaching and Assessment of the Grammar,LECTURE,3,2,1
+ENGM 202A,Children and Adolescent Literature,LECTURE,3,2,1
+SEM 202,Thermodynamics with Laboratory,LECTURE,4,2,1
+SEM 202A,Genetics with Laboratory,LECTURE,4,2,1
+MEM 202,Calculus 2,LECTURE,3,2,1
+MEM 202A,Advanced Statistics,LECTURE,3,2,1
+SDEL 302,Stylistic and Discourse,LECTURE,3,2,1
+EL 302,Teaching Multi-Grade Classes,LECTURE,3,2,1
+WLIT 302,World Literature,LECTURE,3,2,1
+SEC 102,Security Awareness,LECTURE,3,2,1
+EDUC 302,"The Teacher and the Community, School and Organizational Leadership",LECTURE,3,2,1
+EDUC 302A,Assessment of Learning 2,LECTURE,3,2,1
+EEDM 302,Teaching Literacy in the Elementary Grades Through Literature,LECTURE,3,2,1
+EEDM 302A,Techonology for Teaching and Learning 2,LECTURE,3,2,1
+EEDM 302B,Pagtuturo ng Filipino sa Elementarya 2 - Panitikan ng Pilipinas,LECTURE,3,2,1
+EEDM 302C,Teaching PE and Health in the Elementary Grades,LECTURE,3,2,1
+EEDM 302D,Elementary Education Research,LECTURE,3,2,1
+EEDM 302E,Edukasyong Pantahanan at Pangkabuhayan- Entrepreneurship,LECTURE,3,2,1
+ENGM 302,Survey of English and American Literature,LECTURE,3,2,1
+ENGM 302A,"Contemporary, Popular, and Emergent Literature",LECTURE,3,2,1
+ENGM 302B,Speech and Theater Arts,LECTURE,3,2,1
+ENGM 302C,Campus Journalism,LECTURE,3,2,1
+ENGM 302D,Language Learning Materials Development,LECTURE,3,2,1
+ENGM 302E,English Language Research,LECTURE,3,2,1
+SEM 302,Earth Science,LECTURE,3,2,1
+SEM 302A,The Teaching Science,LECTURE,3,2,1
+SEM 302B,Techonology for Teaching and Learning 2,LECTURE,3,2,1
+SEM 302C,Cell and Molecular Bio With Lab,LECTURE,3,2,1
+SEM 302D,Modern Physics,LECTURE,3,2,1
+SEM 302E,Waves and Optics,LECTURE,3,2,1
+SEM 302F,Science Education Research,LECTURE,3,2,1
+MEM 302,Abstract Algebra,LECTURE,3,2,1
+MEM 302A,Mathematics Education Research,LECTURE,3,2,1
+MEM 302B,Techonology for Teaching and Learning 2,LECTURE,3,2,1
+MEM 302C,Assessment and Evaluation of Mathematics,LECTURE,3,2,1
+MEM 302D,Problem Solving Mathematical Investigation and Model,LECTURE,3,2,1
+EDUC 402,Teaching Internship,LECTURE,6,1,1
+TEEC 402,Teaching Education Enrichment Course 2,LECTURE,3,2,1
+CWEL 102,Creative Writing,LECTURE,3,2,1
+ENGM 102,"Language, Culture and Society",LECTURE,3,2,1
+MEM 102A,Plain and Solid Geometry,LECTURE,3,2,1
+ESP 202,English for Specific Purposes,LECTURE,3,2,1
+EL 202,Gender and Society,LECTURE,3,2,1
+SEM 202B,Microbiology and Parasitology with Laboratory,LECTURE,4,2,1
+IT 201,Data Structures and Algorithm,LECTURE,3,1,1
+IT 231,Operating Systems,LECTURE,3,1,1
+NET 102,Computer Networking 1,LECTURE,3,1,1
+CSS 333,Application Development and Emerging Technologies,LECTURE,3,2,1
+HCI 302,Human Computer Interaction,LECTURE,3,2,1
+IAS 202,Information Assurance and Security,LECTURE,3,2,1
+IT 202,Software Engineering 1,LECTURE,3,1,1
+LDS 202,Logic Design and Switching,LECTURE,3,1,1
+NET 202,Computer Networking 3,LECTURE,3,1,1
+SAM 202,System Administration and Maintenance,LECTURE,3,1,1
+CAP 302,Capstone Project 1,LECTURE,3,2,1
+CEEL 302,Multimedia,LECTURE,3,1,1
+CEEL 311,Internet of Things,LECTURE,3,2,1
+CEEL 312,Cloud Computing,LECTURE,3,2,1
+PRAC 402,Internship,LECTURE,3,2,1
+CS 102,Object Oriented Programming,LECTURE,3,1,1
+IT 102,Information Management,LECTURE,3,2,1
+NC 102,Network and Communication,LECTURE,3,1,1
+CS 202,Design and Analysis and Algorithms,LECTURE,3,1,1
+CS 212,Modeling and Simulation,LECTURE,3,1,1
+CS 222,Theory of Automata and Formal Language,LECTURE,3,1,1
+CS 232,Software Engineering 1,LECTURE,3,1,1
+CS 242,Operating Systems,LECTURE,3,1,1
+CS 252,Web System and Technologies,LECTURE,3,1,1
+CS 262,Fundamentals of Data Science,LECTURE,3,2,1
+CS 333,Application Development and Emerging Technologies,LECTURE,3,2,1
+CS 302,Thesis 1,LECTURE,3,2,1
+ETHICS 302,Professional Ethics,LECTURE,3,2,1
+TECH 302,Technopreneurship,LECTURE,3,2,1
+NUM102,Number Theory,LECTURE,3,2,1
+PCOM102,Purposive Communication,LECTURE,3,2,1
+CALC102,Mechanics,LECTURE,3,2,1
+PE102,Rhythmic Activities,LECTURE,2,3,1
+PE202,Team Sports,LECTURE,2,2,1
+PCOM103,Purposive Communication,LECTURE,3,2,1
+PCOM104,Purposive Communication,LECTURE,3,2,1
+PCOM105,Purposive Communication,LECTURE,3,2,1
+PCOM106,Purposive Communication,LECTURE,3,2,1
+PCOM107,Purposive Communication,LECTURE,3,2,1
+PCOM108,Purposive Communication,LECTURE,3,2,1
+NSTP 2,National Service Training 2,LECTURE,3,2,1
+EL 201,Accounting,LECTURE,3,2,1
+RIZAL 202,RIZAL,LECTURE,3,2,1
+BLOG 102,Business Logic,LECTURE,3,2,1
+CAC 102,Cost Accounting and Control,LECTURE,3,2,1
+DSA 102,Data Security Awareness,LECTURE,3,2,1
+ECODE 102,Economic Development,LECTURE,3,2,1
+IA 102,Intermediate Accounting,LECTURE,6,4,1
+MMW102,Mathematics in the Modern World,LECTURE,3,2,1
+AIS 203,Accounting Information System,LECTURE,3,2,1
+FINMAN 202,Financial Management,LECTURE,3,2,1
+GBRIC 202,"Governance, Business Ethics, Risk Management & Internal Control",LECTURE,3,2,1
+IA 202,Intermediate Accounting 3,LECTURE,3,2,1
+IBT 202,International Business and Trade,LECTURE,3,2,1
+LOBC 202,Law on Obligations and Contract,LECTURE,3,2,1
+SOC 202,"Science, Technology and Society",LECTURE,3,2,1
+AASI 302,Auditing and Assurance: Specialize Industries,LECTURE,3,2,1
+ACE 302,Auditing in a CIS Environment,LECTURE,3,2,1
+AR 302,Accounting Research 1,LECTURE,3,2,1
+ASCA 302,Auditing and Assurance: Concepts & Application 2,LECTURE,3,2,1
+BLR 302,Business Law and Regulations 2,LECTURE,3,2,1
+BTAX 302,Business Taxation,LECTURE,3,2,1
+ITAX 302,Income Taxation,LECTURE,3,2,1
+OMTQM 302,Operations Management and TQM,LECTURE,3,2,1
+STCM 302,Strategic Cost Management,LECTURE,3,2,1
+AI 402,Accounting Internship,LECTURE,6,1,1
+PROFELEC 401a,Professional Elective 1*,LECTURE,3,2,1
+PROFELEC 401b,Professional Elective 2*,LECTURE,3,2,1
+AISR 302,Accounting Infromation System Research 1,LECTURE,3,2,1
+ISAD 302,Information System Analysis and Design,LECTURE,3,2,1
+MIT 302,Managing Information and Technology,LECTURE,3,2,1
+PM 302,Project Management,LECTURE,3,2,1
+NAT 102,Anatomy and Physiology,PHYSICSLAB,4,2,1
+PSYB 102,Psychological Statistics,CHEMLAB,5,3,1
+SEM 202,Thermodynamics with Laboratory,PHYSICSLAB,4,2,1
+SEM 202A,Genetics with Laboratory,BIOLAB,4,2,1
+SEM 202B,Microbiology and Parasitology with Laboratory,BIOLAB,4,2,1
+IT 201,Data Structures and Algorithm,COMLAB,3,3,1
+IT 231,Operating Systems,COMLAB,3,3,1
+NET 102,Computer Networking 1,COMLAB,3,3,1
+IT 202,Software Engineering 1,COMLAB,3,3,1
+LDS 202,Logic Design and Switching,COMLAB,3,3,1
+NET 202,Computer Networking 3,COMLAB,3,3,1
+SAM 202,System Administration and Maintenance,COMLAB,3,3,1
+CEEL 302,Multimedia,COMLAB,3,3,1
+CS 102,Object Oriented Programming,COMLAB,3,3,1
+NC 102,Network and Communication,COMLAB,3,3,1
+CS 202,Design and Analysis and Algorithms,COMLAB,3,3,1
+CS 212,Modeling and Simulation,COMLAB,3,3,1
+CS 222,Theory of Automata and Formal Language,COMLAB,3,3,1
+CS 232,Software Engineering 1,COMLAB,3,3,1
+CS 242,Operating Systems,COMLAB,3,3,1
+CS 252,Web System and Technologies,COMLAB,3,3,1

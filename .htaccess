@@ -1,0 +1,9 @@
+DirectoryIndex index.php
+# Custom 404 Not Found scheduling_system/error_page Page
+ErrorDocument 401 http://localhost/scheduling_system/error_page/404.php
+ErrorDocument 403 http://localhost/scheduling_system/error_page/404.php
+ErrorDocument 404 http://localhost/scheduling_system/error_page/404.php
+ErrorDocument 500 http://localhost/scheduling_system/error_page/500.php
+
+Options -Indexes
+
